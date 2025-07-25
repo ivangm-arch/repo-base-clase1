@@ -13,7 +13,7 @@ Esta es una lista del orden recomendado para realizar los ejercicios.
 
 - [01. Commits](./ejercicios/01.Commit/README.md)
 - [02. Zona staging](./ejercicios/02.Zona-staging/README.md)
-- [03. Trabajo con ramas](./ejercicios/03.Trabajo-con-ramas/README.md)
+- [03. Trabajar con ramas](./ejercicios/03.Trabajo-con-ramas/README.md)
 - [04. Mergear ramas tipo Fast-Forward](./ejercicios/04.Mergear-ramas/README.md)
 - [05. Mergear ramas tipo 3-way](./ejercicios/05.Anexar-ramas-otras-formas/README.md)
 - [06. Resolver conflictos](./ejercicios/06.Anexar-conflicto/README.md)
