@@ -5,8 +5,13 @@ Este es un kata muy introductorio. Si ha utilizado `git status`, `git log --onel
 Puede consultar la parte inferior de este archivo si aún no ha realizado la configuración básica de git.
 
 
+## Configuración:
+
+1. Run `source setup.sh`
+
 ## The task
 
+0. Usa `git status` revisar en cual rama estas.
 1. Utilice `git status` para ver en qué rama se encuentra.
 2. ¿Cómo se ve "git log"?
 3. Crea un archivo
