@@ -11,7 +11,7 @@ Los ejercicios son diseñados para aprendizaje de Git, y para practicar el uso d
 
 Esta es una lista del orden recomendado para realizar los ejercicios.
 
-- [01. Commits primeros pasos](./ejercicios/01.Commit-primeros-pasos/README.md)
+- [01. Commits](./ejercicios/01.Commit/README.md)
 - [02. Trabajo area staging](./ejercicios/02.Trabajo-area-staging/README.md)
 - [03. Trabajo con ramas](./ejercicios/03.Trabajo-con-ramas/README.md)
 - [04. Mergear ramas tipo Fast-Forward](./ejercicios/04.Mergear-ramas/README.md)
