@@ -32,7 +32,7 @@ Vives en tu propio repositorio. Hay un archivo llamado `file.txt`.
 12. Ejecute `git status` y observe que `file.txt` está presente dos veces en la salida.
 13. Ejecute `git restore --staged file.txt` para cancelar el cambio
 14. ¿Qué te dice ahora "git status"?
-15. Organiza el cambio y haz un compromiso.
+15. Materializa el cambio haciendo un commit.
 16. ¿Cómo se ve el registro?
 17. Sobrescriba el contenido en `file.txt`: `echo 4 > file.txt` 
 18. ¿Cuál es el contenido de `file.txt`?
