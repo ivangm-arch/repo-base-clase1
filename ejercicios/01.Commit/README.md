@@ -7,7 +7,6 @@ Puede consultar la parte inferior de este archivo si aún no ha realizado la con
 
 ## The task
 
-0. Usa `git status` revisar en cual rama estas.
 1. Utilice `git status` para ver en qué rama se encuentra.
 2. ¿Cómo se ve "git log"?
 3. Crea un archivo
